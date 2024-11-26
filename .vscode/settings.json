@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\benja\\Downloads\\guava-33.2.0-jre.jar",
+        "c:\\Users\\benja\\Documents\\Programming\\Java\\guava-33.2.1-jre.jar"
+    ]
+}
